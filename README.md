@@ -4,7 +4,7 @@ A simple web-based robot arm control interface that allows users to control six 
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Control 6 motors using interactive sliders (range: 0–180°)
 - Save current motor positions to the database
@@ -14,7 +14,7 @@ A simple web-based robot arm control interface that allows users to control six 
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 - PHP (backend logic)
 - MySQL (database)
@@ -24,7 +24,7 @@ A simple web-based robot arm control interface that allows users to control six 
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 
 | File               | Purpose                            |
 |--------------------|------------------------------------|
@@ -69,13 +69,13 @@ Table name: `arm_positions`
 
 ---
 
-## 🖼 Screenshot
+##  Screenshot
 
 <img width="704" height="463" alt="image" src="https://github.com/user-attachments/assets/ae39c3c1-15ef-4cfe-905c-f37150fbf577" />
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - Tested on modern browsers (Chrome)
 - Requires XAMPP or equivalent server stack
@@ -83,7 +83,7 @@ Table name: `arm_positions`
 
 ---
 
-## 📁 License
+##  License
 
 This project is open-source and free to use for educational or development purposes.
 
